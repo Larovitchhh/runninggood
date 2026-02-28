@@ -1,4 +1,4 @@
-# Fungible token
+# running good
 
 Fungible tokens are digital assets that can be sent, received, combined, and divided.
 
